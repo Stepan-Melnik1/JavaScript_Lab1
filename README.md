@@ -1,1 +1,1 @@
-# JavaScript_Lab1
+# Первая лабораторная работа по JavaScript
