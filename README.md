@@ -1,6 +1,6 @@
 # Первая лабораторная работа по JavaScript
 ## Создание файла index.html и его код.
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,4 +16,4 @@
    <script src="script.js"></script>
 </body>
 </html>
-'''
+```
