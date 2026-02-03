@@ -1,1 +1,17 @@
 # Первая лабораторная работа по JavaScript
+## Создание файла index.html и его код.
+'<!DOCTYPE html>'
+'<html lang="en">'
+' <head>'
+'   <title>Привет, мир!</title>'
+' </head>'
+' <body>'
+'<!--Задание 1-->'
+' <script>'
+'     alert("Привет, мир!");'
+'     console.log("Hello, console!");'
+'</script>'
+'<!--Добавление скрипта во внешний файл-->'
+'   <script src="script.js"></script>'
+' </body>'
+'</html>'
