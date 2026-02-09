@@ -24,6 +24,7 @@
 
 ## 4. Примеры использования проекта
 **Пример вывода в консоль:**
+
 <img width="281" height="224" alt="image" src="https://github.com/user-attachments/assets/54e6e021-ee44-4c5a-8de2-7c27d6e4ff2a" />
 
 **Код файла `index.html`:**
