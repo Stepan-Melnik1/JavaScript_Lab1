@@ -47,8 +47,6 @@
 Результат:
 
 <img width="608" height="232" alt="image" src="https://github.com/user-attachments/assets/ec989966-1413-4021-af2e-4f2177df4878" />
-<img width="569" height="194" alt="image" src="https://github.com/user-attachments/assets/7a75378a-9741-4b82-b9a8-e8d6b73a5f88" />
-
 
 **Код файла `script.js`:**
 ```
@@ -77,6 +75,7 @@ for (let i = 1; i <= 5; i++) {
 ```
 Результат:
 
+<img width="569" height="194" alt="image" src="https://github.com/user-attachments/assets/7a75378a-9741-4b82-b9a8-e8d6b73a5f88" />
 <img width="188" height="221" alt="image" src="https://github.com/user-attachments/assets/efef75ea-a302-47c7-9337-f5de4dd6035c" />
 
 ## 5. Ответы на контрольные вопросы
