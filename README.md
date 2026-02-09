@@ -45,6 +45,8 @@
 </body>
 </html>
 ```
+Результат:
+
 <img width="608" height="232" alt="image" src="https://github.com/user-attachments/assets/ec989966-1413-4021-af2e-4f2177df4878" />
 
 **Код файла `script.js`:**
@@ -72,6 +74,8 @@ for (let i = 1; i <= 5; i++) {
  console.log(`Итерация: ${i}`);
 }
 ```
+Результат:
+
 <img width="188" height="221" alt="image" src="https://github.com/user-attachments/assets/efef75ea-a302-47c7-9337-f5de4dd6035c" />
 
 ## 5. Ответы на контрольные вопросы
