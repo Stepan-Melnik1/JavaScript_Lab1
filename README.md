@@ -93,7 +93,9 @@ for (let i = 1; i <= 5; i++) {
 
 ## 6. Список использованных источников
 **1. Учебные материалы курса**
+
 **2. https://www.w3schools.com/js/**
+
 **3. https://learn.javascript.ru/**
 
 
